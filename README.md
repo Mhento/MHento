@@ -1,1 +1,1 @@
-Привет сучки с вами я тру канеки сосущий хуй как ваши дела 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
