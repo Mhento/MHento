@@ -1,25 +1,20 @@
 
-<h1 align="center">Привет, я <имя или псевдоним> 👋</h1>
+<h1 align="center">Привет, я H9nto 👋</h1>
 <h3 align="center">Просто другой человек, который пытается взломать мир.</h3>
 
-<p align="center">
-  <img src="https://github.com/your_username/your_username/blob/main/fsociety_logo.png?raw=true" alt="Fsociety Logo" width="200"/>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&label=ПРОСМОТРЫ&color=green&style=flat-square" alt="Просмотры профиля" />
 </p>
 
 ---
 
-### 🛠️ Мой стек технологий:
+#### 🛠️ Мой стек технологий:
 **Языки и инструменты:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
 
-**Базы данных и облака:**  
+ 
 
 
 ---
