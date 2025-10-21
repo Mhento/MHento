@@ -23,7 +23,7 @@
 
 
 <p align="center">
- <img width="200px" src="551850.jpg" alt="qr"/>
+ <img width="200px" src="551850.jpg" alt="qr" width="600" height="300"/>
 </p>
 
 
